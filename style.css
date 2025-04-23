@@ -134,7 +134,7 @@ span {
 .spot {
     width: 100%;
     min-height: 100vh;
-    background: rgb(51, 117, 197);
+    background: rgb(51, 117, 197, 0.12);
     display: flex;
     align-items: flex-start;
     gap: 7em;
@@ -163,7 +163,7 @@ span {
 .spot2 {
     width: 100%;
     min-height: 100vh;
-    background: rgb(255, 255, 255);
+    background: rgb(255, 255, 255, 0.8);
     display: flex;
     align-items: flex-start;
     gap: 7em;
